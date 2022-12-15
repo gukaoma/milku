@@ -1,0 +1,179 @@
+{
+    "persia": [
+        {
+            "name": "darius II",
+            "date": "330 BCE",
+            "pfp": "images/pfps/darius.png",
+            "content": "<p>question in title</p>",
+            "forum_id": "persia"
+        },
+        {
+            "name": "hellenizm",
+            "date": "330 BCE",
+            "pfp": "images/pfps/helen.png",
+            "content": "<p>bold of you to assume he was better than cyrus, considering that darius is the one who lost the whole empire to some random macedonian</p>",
+            "forum_id": "persia"
+        },
+        {
+            "name": "hellenizm",
+            "date": "330 BCE",
+            "pfp": "images/pfps/helen.png",
+            "content": "<p>cyrus is the one with a cylinder named after him and actually built up persia as a regional powerhouse</p>",
+            "forum_id": "persia"
+        }
+    ],
+
+    "akkad": [
+        {
+            "name": "sargon",
+            "date": "1800 BCE",
+            "pfp": "images/pfps/sargon.png",
+            "content": "<p>ultra chad gilgamesh doesn't actually need milku because</p><ol><li>he is king and therefore makes the laws of the land (can't break the laws if you make them yourself)</li><li>\"Gilgamesh saw the deep, saw the bedrock of the land,\nhe knew the ways and learned all things\" (Helle,  2022, p. 3). This is literally in the first tablet</li><li></li></ol>",
+            "forum_id": "akkad"
+        },
+
+        {
+            "name": "utana",
+            "date": "1799 BCE",
+            "pfp": "images/pfps/utana.png",
+            "content": "<p>this is so wrong, it's funny. you act as if the livlihood of the whole kingdom isn't at stake if the king doesn't know how to act. the whole point of gilgamesh is to show that kingship is a godly ideal that can only be attempted by mortals, but never perfected. in the Sumerian King List, it says that history starts with \"the lowering of kingship from heaven\" and looking at the theology side of things, \"The gifts that Inanna stole from Enki during his feast were social institutions which she wanted for her people\" (Lambert, 1960, p. 17). kingship can be seen as a social institution that helps preserve the order of the realm, but in this view, it comes from a divine source. gilga is a mortal and because of that, he has flaws just like everyone else, that gets in the way of him ruling in an ideal and just way. THAT'S why he needs the milku. milku from the royal council or whatever help make up for the individual flaws of a human king.</p>",
+            "forum_id": "akkad"
+        },
+        {
+            "name": "gilgahomie",
+            "date": "1799 BCE",
+            "pfp": "images/pfps/utana.png",
+            "content": "<p><span class='at'>@utana</span> I can't believe you went on a whole rant about Gilgamesh without even mentioning Enkidu.</p><p>Enkidu is the one that the gods really make an example of, even if it ends up backfiring on them. They thought they could counteract the flaws of King Gilgamesh by giving him another flaw: a rival. That obviously didn't work, which emphasizes that milku (the Akkadian term for council) is the only way to mitigate the flaws of a human monarch.</p>",
+            "forum_id": "akkad"
+        }
+
+    ],
+    "talmud": [
+        {
+            "name": "booky1",
+            "date": "100 CE",
+            "pfp": "images/pfps/book.png",
+            "content": "<p>I'm studying the Roman conquest of Jerusalem, and I was wondering if the advent of the Rabbi movement could be seen as a direct reaction to the loss of temple culture. And if it is, how does Rabbi culture evolve and/or undermine the previously existing Jewish tradition? </p>",
+            "forum_id": "talmud"
+        },
+
+        {
+            "name": "baby-lon",
+            "date": "101 CE",
+            "pfp": "images/pfps/babylon.png",
+            "content": "<p>only one question allowed per thread. make a separate post if you want to ask about multiple things</p>",
+            "forum_id": "talmud"
+        },
+
+        {
+            "name": "sage101",
+            "date": "101 CE",
+            "pfp": "images/pfps/sage.png",
+            "content": "<p><span class='at'>@baby-lon</span> But this could be interpreted as one question. If the rabbinic movement happened as a consequence of the loss of jerusalem as the religious center of judaism, then it would <i>have</i> to somehow recreate or establish new aspects of judaism in order to make up for the loss of temple culture. So yeah, rabbinic culture would definitely change the way judaism was practiced, at least among those who were reading and interacting with the torah and the talmud.</p>",
+            "forum_id": "talmud"
+        },
+        {
+            "name": "notreading7",
+            "date": "102 CE",
+            "pfp": "images/pfps/reading.png",
+            "content": "<p>I agree with <span class='at'>@sage101</span>, but what they said is kinda an oversimplification. While the new approach to the Torah (reading, studying, writing about it) may have marked a change from the pre-existing tradition, the goal of the sages themselves was to <i>preserve</i> Jewish teachings throughout the \"social upheaval, conflicts and rapid change engendered by the dissolution of the Maccabean dynasty and the entrenchment of Roman hegemony\" (Lightstone, 1997). They were not trying to completely revolutionize Judaism, for the most part. Even though many of the sages had differing views and interpretations, the academic practice of writing arguments/analysis upheld the \"oral Torah\" as a document that could be used in the instruction of future generations (Lightstone, 1997). The Mishnah is composed of many of these writings, and to answer your original question, I think the act of preserving these teachings was a form of protest against Roman rule. In that way, it was a direct and neccessary reaction to the Roman hegemony.</p><p>TL;DR The advent of rabbinic/sage writings was an effort to preserve Jewish teachings through a tumultuous political time.</p>",
+            "forum_id": "talmud"
+        },
+        {
+            "name": "baby-lon",
+            "date": "102 CE",
+            "pfp": "images/pfps/babylon.png",
+            "content": "<p>these are still two different questions, even if they relate to the same topic <span class='at'>@sage101</span></p>",
+            "forum_id": "talmud"
+        },
+        {
+            "name": "sage101",
+            "date": "103 CE",
+            "pfp": "images/pfps/sage.png",
+            "content": "<p><img src='/images/memes/mishnah.jpeg'></p>",
+            "forum_id": "talmud"
+        },
+        {
+            "name": "booky1",
+            "date": "103 CE",
+            "pfp": "images/pfps/book.png",
+            "content": "<p>thanks for the explanation <span class='at'>@notreading7</span></p>",
+            "forum_id": "talmud"
+        },
+        {
+            "name": "booky1",
+            "date": "103 CE",
+            "pfp": "images/pfps/book.png",
+            "content": "<p><span class='at'>@sage101</span> LOL</p>",
+            "forum_id": "talmud"
+        },
+        {
+            "name": "cyrusTG",
+            "date": "104 CE",
+            "pfp": "images/pfps/cyrus.png",
+            "content": "<p>I don't usually go here but <span class='at'>@notreading7</span>'s explanation is a bit general as well. I think a literary tradition was already established at the time, but the political unrest exacerbated the need for some feeling of continuity or unity within the Jewish community. Kinda reminds me of the age of prophecy (circa 8th-6th century BCE) and how political instability  leads to not only political backlash (revolutions and uprisings), but also attempts to justify/explain the conflicts using religion.</p><p>And like in the age of prophecy, during the time of the Roman conquests, people turned to religion for answers. Many people expected 'end of time' and a savior to come with that (similar to Cyrus in Isaiah 45:1). Jewish literature and tradition of prophecy existed long before the Romans invaded, and so it makes sense for there to be a resurggence of focus on certain parts of the Torah when similar things are happening again (political unrest, destruction of Jerusalem, and deportation).</p>",
+            "forum_id": "talmud"
+        },
+        {
+            "name": "notreading7",
+            "date": "105 CE",
+            "pfp": "images/pfps/reading.png",
+            "content": "<p>That's actually a good point. Thanks for bringing that up <span class='at'>@cyrusTG</span></p>",
+            "forum_id": "talmud"
+        }
+    ],
+    "manu_trad": [
+        {
+            "name": "darius II",
+            "date": "1800 BCE",
+            "pfp": "images/pfps/darius.png",
+            "content": "<p>oh great ones, tell me more about the sasanian manuscript traditions</p>",
+            "forum_id": "akkad"
+        },
+
+        {
+            "name": "sargon",
+            "date": "1800 BCE",
+            "pfp": "images/pfps/sargon.png",
+            "content": "<p>hello enemies</p>",
+            "forum_id": "akkad"
+        }
+
+    ],
+    "mnemo_alex": [
+        {
+            "name": "darius",
+            "date": "400 CE",
+            "pfp": "images/pfps/darius.png",
+            "content": "<p>alexander the worst lowkey destroyed so much of the zoroastrian archives, that whatever notion that we have of zoroastrianism today is a vague and piece-meal version of the contemporary practices and sentiments</p>",
+            "forum_id": "akkad"
+        },
+
+        {
+            "name": "hellenizm",
+            "date": "400 CE",
+            "pfp": "images/pfps/helen.png",
+            "content": "<p>lol</p>",
+            "forum_id": "akkad"
+        }
+
+    ],
+    "jordan_rocks": [
+        {
+            "name": "rock #872",
+            "date": "1800 BCE",
+            "pfp": "images/pfps/rock1.png",
+            "content": "<p>hey guys look at the writing on these rocks</p>",
+            "forum_id": "akkad"
+        },
+
+        {
+            "name": "rock #516",
+            "date": "1800 BCE",
+            "pfp": "images/pfps/sargon.png",
+            "content": "<p>hello enemies</p>",
+            "forum_id": "akkad"
+        }
+
+    ]
+}

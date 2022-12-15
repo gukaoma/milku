@@ -1,0 +1,147 @@
+:root {
+    --bg:#ebe8e2;
+    --accent:#dbd8d2;
+    --border:#aba8a2;
+    --turq:#69bcea;
+}
+
+body {
+    background: #fafafa;
+    background:var(--bg);
+}
+
+.forum {
+    background: var(--accent);
+    padding:20px;
+    margin-bottom:10vh;
+}
+
+.trending {
+    margin-bottom:5vh;
+}
+
+.forum-preview {
+    max-height: 70vh;
+    overflow: hidden;
+    z-index: 1;
+    position: relative;
+}
+
+.forum-preview::after {
+    content:" ";
+    display:block;
+    position: absolute;
+    bottom:0vh;
+    left:0;
+    z-index:9;
+    height:10vh;
+    width: 100%;
+    background:linear-gradient(0deg, var(--accent) 0%, rgba(0,212,255,0) 100%);
+}
+
+article {
+    position:relative;
+    background: #fff;
+    border:1px solid var(--border);
+    box-sizing: border-box;
+    padding:10px;
+    padding-top:2em;
+    margin-bottom:20px;
+    text-align: left;
+}
+
+.forum-preview article {
+    padding:10px;
+}
+
+.forum-preview article .col-2 {
+    width:25%;
+}
+
+.forum-preview article .col-10 {
+    width:75%;
+}
+
+.forum > article {
+    border-top:2em solid var(--border);
+    padding-top:10px;
+}
+
+#side {
+    position: fixed;
+    right:2.5vw;
+}
+
+article.sidebar {
+
+}
+
+article img {
+    max-width: 100%;
+}
+
+article p:last-of-type {
+    margin:0;
+}
+
+.ad {
+    display: block;
+    position:absolute;
+    top:0;
+    right:10px;
+}
+
+.pfp {
+    position: relative;
+    width:100%;
+    max-width:100px;
+    /* height:100px; */
+    background: var(--accent);
+}
+
+.date {
+    position: absolute;
+    top:calc(-2em + 5px);
+    right:5px;
+}
+
+.forum-preview .date {
+    display: none;
+}
+
+a {
+    color:#bce839;
+    color:var(--turq);
+}
+
+a:visited {
+    color:var(--bs-gray);
+
+}
+
+h1 {
+    color:#bce839;
+    color:var(--turq);
+}
+
+h3 {
+    text-shadow: 2px 2px var(--bs-light);
+}
+
+span.at {
+    background: var(--border);
+    color:#fff;
+    padding:0px 4px;
+    border-radius: 5px;
+}
+
+.header .topper {
+    /* position:fixed; */
+    height:5vh;
+    border-bottom:2px solid var(--accent);
+}
+
+.footer {
+    background: var(--accent);
+    margin-bottom:5vh;
+}
