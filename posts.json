@@ -2,25 +2,82 @@
     "persia": [
         {
             "name": "darius II",
-            "date": "330 BCE",
+            "date": "505 BCE",
             "pfp": "images/pfps/darius.png",
             "content": "<p>question in title</p>",
             "forum_id": "persia"
         },
         {
             "name": "hellenizm",
-            "date": "330 BCE",
+            "date": "505 BCE",
             "pfp": "images/pfps/helen.png",
             "content": "<p>bold of you to assume he was better than cyrus, considering that darius is the one who lost the whole empire to some random macedonian</p>",
             "forum_id": "persia"
         },
         {
             "name": "hellenizm",
-            "date": "330 BCE",
+            "date": "504 BCE",
             "pfp": "images/pfps/helen.png",
-            "content": "<p>cyrus is the one with a cylinder named after him and actually built up persia as a regional powerhouse</p>",
+            "content": "<p>cyrus</p><ul><li>has a cylinder named after him that explains all the great things he did for the empire</li><li>defeated the Medes, defeated Lydia, defeated Babylon, the list goes on</li><li>also: seen as a messiah by the Jewish population of Mesopotamia at the time because he defeated Babylon and freed the Jewish community from the rule of Marduk</li><li>he was written into Deutero Isaiah sometime after the Babylonian conquest in 539BCE, which is kinda awesome considering that Cyrus was not a prophet or Jewish</li></ul><p>darius</p><ul><li>copied the cylinder idea, and attributed Cyrus's achievements to himself</li><li>could barely deal with that Gaumata/fake-Smerdis guy</li></ul>",
+            "forum_id": "persia"
+        },
+        {
+            "name": "hellenizm",
+            "date": "503 BCE",
+            "pfp": "images/pfps/helen.png",
+            "content": "<p>I could go on forever about Deutero Isaiah tbh<sup><b>*</b></sup>. This narrative is a true culmination of empire, prophecy, salvation, and mnemohistory. In the view of Jewish population of Mesopotamia, the fall of the Neo-Babylonian empire signaled the end of an oppresive government that tore them away from their home in Israel. And so Isaiah sees Cyrus's conquest of Babylon as a chance for redemption presented by God. Even if Cyrus wasn't really a better king than Marduk (Israel was still part of Cyrus's empire, after all, and was not an independent region), the fact that he crushed their oppresor made a huge impression on the mnemohistory of this time period. The cultural, collective memory viewed Cyrus as a messiah, and so he became cemented as one in Isaiah.</p><p><sup class='fn'>* tbh: to be honest</sup></p>",
+            "forum_id": "persia"
+        },
+        {
+            "name": "cyrusTG",
+            "date": "502 BCE",
+            "pfp": "images/pfps/cyrus.png",
+            "content": "<p>LOL remember when Darius was talking about Cambyses in the Behistun inscription?</p><p><img src='/images/memes/smerdis.jpeg'></p>",
+            "forum_id": "persia"
+        },
+        {
+            "name": "cyrusTG",
+            "date": "502 BCE",
+            "pfp": "images/pfps/cyrus.png",
+            "content": "<p>If we're being real though, Darius does have some pretty cool inscriptions. He always emphasizes his connection to Ahuramazda, which as a result, frames him as a divinely ordained king (and holder of good stuff). This is a stark contrast against Gaumata, who usurped the throne through lying, deception, and instilling fear in those who knew the truth. And because all of this story is written out at Behistun, people would have been able to follow the line of rhetoric and come to the conclusion that a lawful and righteous king like Darius should be followed, rather than \"the Evil One\" who fostered \"Deception\" like Gaumata (quotes from Darius at Behistun 10)</p>",
+            "forum_id": "persia"
+        },
+        {
+            "name": "cyrusTG",
+            "date": "502 BCE",
+            "pfp": "images/pfps/cyrus.png",
+            "content": "<p>I feel like Darius must have looked up to the line of kings like Cyrus, and felt like he needed to justify his ascension to the throne because he is not a direct descendent of Cyrus like Smerdis and Cambyses. So it makes sense that he is constantly bringing in Ahuramazda as a supposed source of his royal power. Either way, he did finally kill Gaumata and restore his family as the royal family. Here's another Behistun writing (56):</p><p>You who shall read this inscription later,<br>believe what I have done!<br>You must not think (it is) the Deception (speaking).</p>",
+            "forum_id": "persia"
+        },
+        {
+            "name": "hellenizm",
+            "date": "502 BCE",
+            "pfp": "images/pfps/helen.png",
+            "content": "<p>ngl<sup><b>*</b></sup> sounds like Darius is begging people to believe him. Lowkey<sup><b>**</b></sup> sus<sup><b>***</b></sup> lol. maybe the deception IS speaking and we just don't know it.</p><p><sup class='fn'>* ngl: not gonna lie</sup><br><sup class='fn'>** lowkey: a little bit</sup><br><sup class='fn'>*** sus: suspicious</sup></p>",
+            "forum_id": "persia"
+        },
+        {
+            "name": "cyrusTG",
+            "date": "502 BCE",
+            "pfp": "images/pfps/cyrus.png",
+            "content": "<p>lowkey<sup><b>*</b></sup> i'll make a new thread just for the drugwant memes</p><p><sup class='fn'>* lowkey: perhaps</sup></p>",
+            "forum_id": "persia"
+        },
+        {
+            "name": "darius II",
+            "date": "501 BCE",
+            "pfp": "images/pfps/darius.png",
+            "content": "<p>please don't</p>",
+            "forum_id": "persia"
+        },
+        {
+            "name": "cyrusTG",
+            "date": "501 BCE",
+            "pfp": "images/pfps/cyrus.png",
+            "content": "<p>too late: <a href='/drug.html'>drugwants anonymous</a></p>",
             "forum_id": "persia"
         }
+
     ],
 
     "akkad": [
@@ -28,7 +85,7 @@
             "name": "sargoat",
             "date": "1800 BCE",
             "pfp": "images/pfps/sargon.png",
-            "content": "<p>ultra chad gilgamesh doesn't actually need milku because</p><ol><li>he is king and therefore makes the laws of the land (can't break the laws if you make them yourself)</li><li>\"Gilgamesh saw the deep, saw the bedrock of the land,\nhe knew the ways and learned all things\" (Helle,  2022, p. 3). This is literally in the first tablet</li><li>kings are not supposed to have rivals. having a rival only causes unstability</li></ol>",
+            "content": "<p>ultra chad<sup><b>*</b></sup> gilgamesh doesn't actually need milku because</p><ol><li>he is king and therefore makes the laws of the land (can't break the laws if you make them yourself)</li><li>\"Gilgamesh saw the deep, saw the bedrock of the land, he knew the ways and learned all things\" (Helle,  2022, p. 3). This is literally in the first tablet</li><li>kings are not supposed to have rivals. having a rival only causes unstability</li></ol><p><sup class='fn'>* ultra chad: archtype of a very attractive and formidable man</sup></p>",
             "forum_id": "akkad"
         },
 
@@ -36,20 +93,20 @@
             "name": "utana",
             "date": "1799 BCE",
             "pfp": "images/pfps/utana.png",
-            "content": "<p>this is so wrong, it's funny. you act as if the livlihood of the whole kingdom isn't at stake if the king doesn't know how to act. the whole point of gilgamesh is to show that kingship is a godly ideal that can only be attempted by mortals, but never perfected. in the Sumerian King List, it says that history starts with \"the lowering of kingship from heaven\" and looking at the theology side of things, \"The gifts that Inanna stole from Enki during his feast were social institutions which she wanted for her people\" (Lambert, 1960, p. 17). kingship can be seen as a social institution that helps preserve the order of the realm, and in this context, it comes from a divine source. gilga is a mortal and because of that, he has flaws just like everyone else, that gets in the way of him ruling in an ideal and just way. THAT'S why he needs the milku. milku from the royal council or whatever help make up for the individual flaws of a human king.</p>",
+            "content": "<p>this is so wrong, it's funny. you act as if the livlihood of the whole kingdom isn't at stake if the king doesn't know how to act. the whole point of gilgamesh is to show that kingship is a godly ideal that can only be attempted by mortals, but never perfected. in the Sumerian King List, it says that history starts with \"the lowering of kingship from heaven\" and specifically, \"the gifts that Inanna stole from Enki during his feast were social institutions which she wanted for her people\" (Lambert, 1960, p. 17). kingship can be seen as a social institution that helps preserve the order of the realm, and in this context, it comes from a divine source. gilga is a mortal and because of that, he has flaws just like everyone else, that gets in the way of him ruling in an ideal and just way. THAT'S why he needs the milku. milku from the royal council helps make up for the individual flaws of a human king.</p>",
             "forum_id": "akkad"
         },
         {
             "name": "3Dmesh",
             "date": "1799 BCE",
             "pfp": "images/pfps/mesh.png",
-            "content": "<p><span class='at'>@utana</span> I disagree. Because the gods also had their many flaws, it's hard to picture that they could form an 'ideal' anything. And indeed, Gilgamesh is described as \"two-thirds god and only one-third human\" (Helle, 2022, p. 5). So it seems to be a bit of a stretch to say that just because he was part human, he was not a perfect king. I think the whole focus of milku is that ALL kings, god or mortal, have to rely on advice from time to time, or else they will succumb to their passions and impulses.</p><p></p>",
+            "content": "<p><a class='at' href='#1'>@utana</a> I disagree. Because the gods also had their many flaws, it's hard to picture that they could form an 'ideal' anything. And indeed, Gilgamesh is described as \"two-thirds god and only one-third human\" (Helle, 2022, p. 5). So it seems to be a bit of a stretch to say that just because he was part human, he was not a perfect king. I think the whole focus of milku is that ALL kings, god or mortal, have to rely on advice from time to time, or else they will succumb to their passions and impulses.</p><p></p>",
             "forum_id": "akkad"
         },
         {
             "name": "randomilku",
             "date": "1799 BCE",
-            "pfp": "images/pfps/mesh.png",
+            "pfp": "images/pfps/milku.png",
             "content": "<p>This is why I hate wisdom literature. Gilgamesh doesn't make any sense. Is he god or mortal? Is he a true king or a wannabe? Should he have a rival or should he not have a rival? Do his subjects love him or fear him?</p><p>It seems like the Epic of Gilgamesh is more of a reflection on contrast than it is a reflection on kingship and council. The story is told through juxtaposition, and the grand take-away is that even the greatest and most powerful have flaws (wrath and savagery), and the only hope we have to mitigate those flaws, is by compensating with another attribute. Isn't that why they made Enkidu? To \"be a match for the storm of [Gilgamesh's] heart\" (Helle, 2022, p. 6)?</p><p>For real, Gilgamesh is just a couple hundred pages of 'this vs that' and in the end he realizes he needs some advisors.</p>",
             "forum_id": "akkad"
         },
@@ -57,14 +114,14 @@
             "name": "gilgahomie",
             "date": "1799 BCE",
             "pfp": "images/pfps/gilgahomie.png",
-            "content": "<p><span class='at'>@utana</span> I can't believe you went on a whole rant about Gilgamesh without even mentioning Enkidu.</p><p>Enkidu is the one that the gods really make an example of, even if it ends up backfiring on them. They thought they could counteract the flaws of King Gilgamesh by giving him another flaw: a rival. That obviously didn't work, which emphasizes that milku (the Akkadian term for council) is the only way to mitigate the flaws of a human monarch.</p>",
+            "content": "<p><a class='at' href='#1'>@utana</a> Your reasoning is alright, but I can't believe you went on a whole rant about Gilgamesh without even mentioning Enkidu.</p><p>Enkidu is the one that the gods really make an example of, even if it ends up backfiring on them. They thought they could counteract the flaws of King Gilgamesh by giving him another flaw: a rival. That obviously didn't work, which emphasizes that milku (the Akkadian term for council) is the only way to mitigate the flaws of a monarch. If you actually read the Gilgamesh book that OP<sup><b>*</b></sup> cites, you would see that \"<i>milku</i> implies an extended process of deliberation and debate—precisely what an assembly would give the king. Without the right <i>milku</i>, there were no limits to the disasters that kings could cause\" (Helle, 2022, p. 208). The gods thought Enkidu would give council to Gilgamesh, but whatever council Enkidu gave wasn't very good because they both went around rampaging and destroying things.</p><p><sup class='fn'>* OP: original poster</sup></p>",
             "forum_id": "akkad"
         },
         {
             "name": "gilgahomie",
             "date": "1799 BCE",
             "pfp": "images/pfps/gilgahomie.png",
-            "content": "<p><span class='at'>@randomilku</span> Why are you so salty about a 4,000 year old poem? The contrasts in the story are due to the literary style at the time. Because each god was the patron of a city/town, when certain cities gained power, the acclaim and power of their deity also increased. That's probably why so much of the Epic of Gilgamesh seems turbulent: it was written at a time when political turbulence between regions directly correlated to divine conflicts. Council (milku) is seen as a way to curb political turbulence and establish stability in a kingdom.</p><p>So maybe you should take some milku from me and chill out.</p>",
+            "content": "<p><a class='at' href='#3'>@randomilku</a> Why are you so salty about a 4,000 year old poem? The contrasts in the story are due to the literary style at the time. Because each god was the patron of a city/town, when certain cities gained power, the acclaim and power of their deity also increased. That's probably why so much of the Epic of Gilgamesh seems turbulent: it was written at a time when political turbulence between regions directly correlated to divine conflicts. Council (milku) is seen as a way to curb political turbulence and establish stability in a kingdom.</p><p>So maybe you should take some milku from me and chill out.</p>",
             "forum_id": "akkad"
         },
         {
@@ -92,7 +149,7 @@
             "name": "baby-lon",
             "date": "1798 BCE",
             "pfp": "images/pfps/babylon.png",
-            "content": "<p><span class='at'>@gilgahomie</span> I have some milku for you: stop spamming the thread with memes.</p>",
+            "content": "<p><a class='at' href='#8'>@gilgahomie</a> I have some milku for you: stop spamming the thread with memes.</p>",
             "forum_id": "talmud"
         },
         {
@@ -125,21 +182,21 @@
             "name": "sage101",
             "date": "101 CE",
             "pfp": "images/pfps/sage.png",
-            "content": "<p><span class='at'>@baby-lon</span> But this could be interpreted as one question. If the rabbinic movement happened as a consequence of the loss of jerusalem as the religious center of judaism, then it would <i>have</i> to somehow recreate or establish new aspects of judaism in order to make up for the loss of temple culture. So yeah, rabbinic culture would definitely change the way judaism was practiced, at least among those who were reading and interacting with the torah and the talmud.</p>",
+            "content": "<p><a class='at' href='#1'>@baby-lon</a> But this could be interpreted as one question. If the rabbinic movement happened as a consequence of the loss of jerusalem as the religious center of judaism, then it would <i>have</i> to somehow recreate or establish new aspects of judaism in order to make up for the loss of temple culture. So yeah, rabbinic culture would definitely change the way judaism was practiced, at least among those who were reading and interacting with the torah and the talmud.</p>",
             "forum_id": "talmud"
         },
         {
             "name": "notreading7",
             "date": "102 CE",
             "pfp": "images/pfps/reading.png",
-            "content": "<p>I agree with <span class='at'>@sage101</span>, but what they said is kinda an oversimplification. While the new approach to the Torah (reading, studying, writing about it) may have marked a change from the pre-existing tradition, the goal of the sages themselves was to <i>preserve</i> Jewish teachings throughout the \"social upheaval, conflicts and rapid change engendered by the dissolution of the Maccabean dynasty and the entrenchment of Roman hegemony\" (Lightstone, 1997). They were not trying to completely revolutionize Judaism, for the most part. Even though many of the sages had differing views and interpretations, the academic practice of writing arguments/analysis upheld the \"oral Torah\" as a document that could be used in the instruction of future generations (Lightstone, 1997). The Mishnah is composed of many of these writings, and to answer your original question, I think the act of preserving these teachings was a form of protest against Roman rule. In that way, it was a direct and neccessary reaction to the Roman hegemony.</p><p>TL;DR The advent of rabbinic/sage writings was an effort to preserve Jewish teachings through a tumultuous political time.</p>",
+            "content": "<p>I agree with <a class='at' href='#2'>@sage101</a>, but what they said is kinda an oversimplification. While the new approach to the Torah (reading, studying, writing about it) may have marked a change from the pre-existing tradition, the goal of the sages themselves was to <i>preserve</i> Jewish teachings throughout the \"social upheaval, conflicts and rapid change engendered by the dissolution of the Maccabean dynasty and the entrenchment of Roman hegemony\" (Lightstone, 1997). They were not trying to completely revolutionize Judaism, for the most part. Even though many of the sages had differing views and interpretations, the academic practice of writing arguments/analysis upheld the \"oral Torah\" as a document that could be used in the instruction of future generations (Lightstone, 1997). The Mishnah is composed of many of these writings, and to answer your original question, I think the act of preserving these teachings was a form of protest against Roman rule. In that way, it was a direct and neccessary reaction to the Roman hegemony.</p><p>TL;DR The advent of rabbinic/sage writings was an effort to preserve Jewish teachings through a tumultuous political time.</p>",
             "forum_id": "talmud"
         },
         {
             "name": "baby-lon",
             "date": "102 CE",
             "pfp": "images/pfps/babylon.png",
-            "content": "<p>these are still two different questions, even if they relate to the same topic <span class='at'>@sage101</span></p>",
+            "content": "<p>these are still two different questions, even if they relate to the same topic <a class='at' href='#2'>@sage101</a></p>",
             "forum_id": "talmud"
         },
         {
@@ -153,63 +210,111 @@
             "name": "booky1",
             "date": "103 CE",
             "pfp": "images/pfps/book.png",
-            "content": "<p>thanks for the explanation <span class='at'>@notreading7</span></p>",
+            "content": "<p>thanks for the explanation <a class='at' href='#3'>@notreading7</a></p>",
             "forum_id": "talmud"
         },
         {
             "name": "booky1",
             "date": "103 CE",
             "pfp": "images/pfps/book.png",
-            "content": "<p><span class='at'>@sage101</span> LOL</p>",
+            "content": "<p><a class='at' href='#5'>@sage101</a> LOL</p>",
             "forum_id": "talmud"
         },
         {
             "name": "cyrusTG",
             "date": "104 CE",
             "pfp": "images/pfps/cyrus.png",
-            "content": "<p>I don't usually go here but <span class='at'>@notreading7</span>'s explanation is a bit general as well. I think a literary tradition was already established at the time, but the political unrest exacerbated the need for some feeling of continuity or unity within the Jewish community. Kinda reminds me of the age of prophecy (circa 8th-6th century BCE) and how political instability  leads to not only political backlash (revolutions and uprisings), but also attempts to justify/explain the conflicts using religion.</p><p>And like in the age of prophecy, during the time of the Roman conquests, people turned to religion for answers. Many people expected 'end of time' and a savior to come with that (similar to Cyrus in Isaiah 45:1). Jewish literature and tradition of prophecy existed long before the Romans invaded, and so it makes sense for there to be a resurgence of focus on certain parts of the Torah when similar things are happening again (political unrest, destruction of Jerusalem, and deportation).</p>",
+            "content": "<p>I don't usually go here but <a class='at' href='#3'>@notreading7</a>'s explanation is a bit general as well. I think a literary tradition was already established at the time, but the political unrest exacerbated the need for some feeling of continuity or unity within the Jewish community. Kinda reminds me of the age of prophecy (circa 8th-6th century BCE) and how political instability  leads to not only political backlash (revolutions and uprisings), but also attempts to justify/explain the conflicts using religion.</p><p>And like in the age of prophecy, during the time of the Roman conquests, people turned to religion for answers. Many people expected 'end of time' and a savior to come with that (similar to Cyrus in Isaiah 45:1). Jewish literature and tradition of prophecy existed long before the Romans invaded, and so it makes sense for there to be a resurgence of focus on certain parts of the Torah when similar things are happening again (political unrest, destruction of Jerusalem, and deportation).</p>",
             "forum_id": "talmud"
         },
         {
             "name": "notreading7",
             "date": "105 CE",
             "pfp": "images/pfps/reading.png",
-            "content": "<p>That's actually a good point. Thanks for bringing that up <span class='at'>@cyrusTG</span></p>",
+            "content": "<p>That's actually a good point. Thanks for bringing that up <a class='at' href='#8'>@cyrusTG</a></p>",
             "forum_id": "talmud"
         }
     ],
     "manu_trad": [
         {
             "name": "darius II",
-            "date": "1800 BCE",
+            "date": "150 CE",
             "pfp": "images/pfps/darius.png",
             "content": "<p>oh great ones, tell me more about the sasanian manuscript traditions</p>",
             "forum_id": "akkad"
         },
-
         {
-            "name": "sargon",
-            "date": "1800 BCE",
-            "pfp": "images/pfps/sargon.png",
-            "content": "<p>hello enemies</p>",
+            "name": "cyrusTG",
+            "date": "150 CE",
+            "pfp": "images/pfps/cyrus.png",
+            "content": "<p>there are like 6 of them I think. </p>",
+            "forum_id": "akkad"
+        },
+        {
+            "name": "cyrusTG",
+            "date": "150 CE",
+            "pfp": "images/pfps/cyrus.png",
+            "content": "<ul><li>Zoroastrian texts (written in middle Persian)</li><li>Christian literature from the church of the east (written in Syriac)</li><li>Christian literature (written in Armenian)</li><li>Literature of Mandaean priests (written in Mandaic)</li><li>Rabbinic literature (written in Babylonian Armaic, includes Babylonian talmud)</li><li>Cosmopolitan literature of Sasanian secretarial class (written in middle Pesian, preserved in Arabic)</li></ul><p>So if you want to read texts from any of these manuscript traditions, you should consider learning middle Persian.</p>",
+            "forum_id": "akkad"
+        },
+        {
+            "name": "baby-lon",
+            "date": "151 CE",
+            "pfp": "images/pfps/babylon.png",
+            "content": "<p>Did someone say Babylonian Talmud?</p>",
             "forum_id": "akkad"
         }
 
     ],
     "mnemo_alex": [
         {
-            "name": "darius",
-            "date": "400 CE",
+            "name": "darius II",
+            "date": "320 BCE",
             "pfp": "images/pfps/darius.png",
-            "content": "<p>alexander the worst lowkey destroyed so much of the zoroastrian archives, that whatever notion that we have of zoroastrianism today is a vague and piece-meal version of the contemporary practices and sentiments</p>",
+            "content": "<p>alexander the worst lowkey<sup><b>*</b></sup> destroyed so much of the zoroastrian archives, that whatever notion that we have of zoroastrianism today is a vague and piece-meal version of the contemporary practices and sentiments during the sasanian empire.</p><p><sup class='fn'>* lowkey: to be honest</sup></p>",
             "forum_id": "akkad"
         },
 
         {
             "name": "hellenizm",
-            "date": "400 CE",
+            "date": "320 BCE",
             "pfp": "images/pfps/helen.png",
             "content": "<p>lol</p>",
+            "forum_id": "akkad"
+        },
+        {
+            "name": "hellenizm",
+            "date": "320 BCE",
+            "pfp": "images/pfps/helen.png",
+            "content": "<p>Alexander the Great is called great because he spread Helenistic culture across all of the near east. Everything from coinage, to art, to the way succeeding kings ruled was all influenced by how Alexander conducted his military campaigns.</p><p>The essence of paideia (Greek education/culture) was so attractive that even after Alexander's empire dissolved, people continued to use Greek motifs in their art and literature.</p>",
+            "forum_id": "akkad"
+        },
+        {
+            "name": "hellenizm",
+            "date": "320 BCE",
+            "pfp": "images/pfps/helen.png",
+            "content": "<p>So yeah, Alexander did more than just destroy things.</p>",
+            "forum_id": "akkad"
+        },
+        {
+            "name": "cyrusTG",
+            "date": "319 BCE",
+            "pfp": "images/pfps/cyrus.png",
+            "content": "<p>I won't lie and say that Alexander wasn't a good commander/leader/influencer, but <a class='at' href='#0'>@darius II</a> is kinda right. In the Denkard (3.420.9), there is a clear motif of lamenting the loss of texts and knowledge within the religion; what they managed to preserve is \"a spark of the glimmer of that blaze from the light of the original light.\"</p><p>This is especially poignent, considering the imagery of a fire that has dwindled from its original brilliance. As you know, the preservation and maintaince of the sacred fires in Zoroastrianism is very important, so the comparison between the remnant texts and a small spark is pretty grim.</p>",
+            "forum_id": "persia"
+        },
+        {
+            "name": "cyrusTG",
+            "date": "319 BCE",
+            "pfp": "images/pfps/cyrus.png",
+            "content": "<p>It's almost as if the religion itself was a fire smothered by Alexander's conquest. The adoption of Greek customs and paideia within Persia doesn't make up for the loss of a whole literary tradition.</p>",
+            "forum_id": "persia"
+        },
+        {
+            "name": "darius II",
+            "date": "320 BCE",
+            "pfp": "images/pfps/darius.png",
+            "content": "<p>Yeah, exactly. </p>",
             "forum_id": "akkad"
         }
 
@@ -228,6 +333,38 @@
             "date": "1800 BCE",
             "pfp": "images/pfps/sargon.png",
             "content": "<p>hello enemies</p>",
+            "forum_id": "akkad"
+        }
+
+    ],
+    "nodrug": [
+        {
+            "name": "angry mains",
+            "date": "300 BCE",
+            "pfp": "images/pfps/angry.png",
+            "content": "<p>would anyone like some darkness and chaos?</p>",
+            "forum_id": "akkad"
+        },
+        {
+            "name": "darius II",
+            "date": "300 BCE",
+            "pfp": "images/pfps/darius.png",
+            "content": "<p>say no to drug, angra mainyu is trying to trick you</p>",
+            "forum_id": "akkad"
+        },
+
+        {
+            "name": "angry mains",
+            "date": "299 BCE",
+            "pfp": "images/pfps/angry.png",
+            "content": "<p>that's not true, the drugwants are homies</p>",
+            "forum_id": "akkad"
+        },
+        {
+            "name": "cyrusTG",
+            "date": "299 BCE",
+            "pfp": "images/pfps/cyrus.png",
+            "content": "<p>LOL</p>",
             "forum_id": "akkad"
         }
 

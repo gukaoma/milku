@@ -7,12 +7,12 @@ In order to view this project, follow these steps
 3. Move the expanded folder to an easy to find place
 4. Open the terminal on your computer (you can google how to do this)
 4. Use the terminal commands to find and enter the milku folder
-    a. You can use `ls` to see which folders you can enter
-    b. You use `cd foldername` to enter a folder
-    c. Do this until you have entered the milku folder
+    1. You can use `ls` to see which folders you can enter
+    2. You use `cd foldername` to enter a folder
+    3. Do this until you have entered the milku folder
 5. Enter the following command into the terminal: `python3 -m http.server`
-    a. If this doesn't work, you may still be using python2, so try `python -m SimpleHTTPServer`
-    b. If that doesn't work, then go to https://www.python.org and download python, then try step 5 again.
+    1. If this doesn't work, you may still be using python2, so try `python -m SimpleHTTPServer`
+    2. If that doesn't work, then go to https://www.python.org and download python, then try step 5 again.
 6. Now go to your browser and go to this url: http://localhost:8000/
 7. Enjoy!
 

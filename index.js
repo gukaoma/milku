@@ -41,6 +41,7 @@
 
                     $( "<article/>", {
                         "class": classes,
+                        "id":k,
                         html: items.join( "" )
                     }).appendTo( container );
 
