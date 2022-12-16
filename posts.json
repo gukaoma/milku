@@ -74,7 +74,7 @@
             "name": "cyrusTG",
             "date": "501 BCE",
             "pfp": "images/pfps/cyrus.png",
-            "content": "<p>too late: <a href='/drug.html'>drugwants anonymous</a></p>",
+            "content": "<p>too late: <a href='/nodrug.html'>drugwants anonymous</a></p>",
             "forum_id": "persia"
         }
 
@@ -322,7 +322,7 @@
     "jordan_rocks": [
         {
             "name": "rock #872",
-            "date": "1800 BCE",
+            "date": "date ???",
             "pfp": "images/pfps/rock1.png",
             "content": "<p>hey guys look at the writing on these rocks</p>",
             "forum_id": "akkad"
@@ -330,16 +330,37 @@
 
         {
             "name": "rock #516",
-            "date": "1800 BCE",
-            "pfp": "images/pfps/sargon.png",
-            "content": "<p>hello enemies</p>",
+            "date": "date ???",
+            "pfp": "images/pfps/rock2.png",
+            "content": "<p>tfw<sup><b>*</b></sup> you accidentally scratch a rock and you get blindless and lameness from a thousand year old curse.</p><p><sup class='fn'>* tfw: that feeling when</sup></p>",
+            "forum_id": "akkad"
+        },
+        {
+            "name": "rock #516",
+            "date": "date ???",
+            "pfp": "images/pfps/rock2.png",
+            "content": "<p>honestly, the existence of these rocks gives us a glimpse of the daily lives and sentiments of people at those times. and it seems like humanity never changes because so many of the rocks are just ancient chain messages. people want to preserve themselves and their family members legacies, and want everyone who comes after to see and acknowledge that they existed.</p>",
+            "forum_id": "akkad"
+        },
+        {
+            "name": "rock #872",
+            "date": "date ???",
+            "pfp": "images/pfps/rock1.png",
+            "content": "<p>ancient chain messages LOL. that's one way of looking at it, but i get your point. even if the message isn't expressly universal (most times actually they are quite personal, mundane accounts of old friends and family), the people writing them clearly wanted them to be preserved into the future, as a mark on the world, a testament to their existence.</p>",
+            "forum_id": "akkad"
+        },
+        {
+            "name": "rock #872",
+            "date": "date ???",
+            "pfp": "images/pfps/rock1.png",
+            "content": "<p>that's kinda deep. i wish we could go back to writing on rocks as form of social media.</p>",
             "forum_id": "akkad"
         }
 
     ],
     "nodrug": [
         {
-            "name": "angry mains",
+            "name": "angrymains",
             "date": "300 BCE",
             "pfp": "images/pfps/angry.png",
             "content": "<p>would anyone like some darkness and chaos?</p>",
@@ -354,7 +375,7 @@
         },
 
         {
-            "name": "angry mains",
+            "name": "angrymains",
             "date": "299 BCE",
             "pfp": "images/pfps/angry.png",
             "content": "<p>that's not true, the drugwants are homies</p>",
@@ -364,7 +385,7 @@
             "name": "cyrusTG",
             "date": "299 BCE",
             "pfp": "images/pfps/cyrus.png",
-            "content": "<p>LOL</p>",
+            "content": "<p>LOL true battle between good and evil going on here. really embodies the dualism of zoroastrianism.</p>",
             "forum_id": "akkad"
         }
 
