@@ -1,7 +1,7 @@
 :root {
     --bg:#ebe8e2;
     --accent:#dbd8d2;
-    --border:#aba8a2;
+    --border:#aba892;
     --turq:#69bcea;
 }
 
@@ -78,10 +78,23 @@ article.sidebar {
 
 article img {
     max-width: 100%;
+    max-width: 500px;
 }
 
 article p:last-of-type {
     margin:0;
+}
+
+.forum > article.moderator {
+    border-color:var(--bs-purple);
+}
+
+.forum > article.moderator::after {
+    content:'Moderator';
+    color:#fff;
+    position: absolute;
+    top:calc(-2em + 5px);
+    left:5px;
 }
 
 .ad {
@@ -103,6 +116,7 @@ article p:last-of-type {
     position: absolute;
     top:calc(-2em + 5px);
     right:5px;
+    color:#fff;
 }
 
 .forum-preview .date {

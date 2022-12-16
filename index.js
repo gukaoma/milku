@@ -34,8 +34,13 @@
                     items.push("</div>")
 
 
+                    var classes = "post";
+                    if (v["name"] == "baby-lon") {
+                        classes += " moderator"
+                    }
+
                     $( "<article/>", {
-                        "class": "post",
+                        "class": classes,
                         html: items.join( "" )
                     }).appendTo( container );
 
