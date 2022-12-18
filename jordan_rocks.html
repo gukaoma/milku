@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<!-- citation: boilerplate from freeCodeCamp https://www.freecodecamp.org/news/html-starter-template-a-basic-html5-boilerplate-for-index-html/ -->
+
+<!-- python3 -m http.server -->
+
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- <meta http-equiv="X-UA-Compatible" content="ie=edge"> -->
+
+        <!-- title -->
+        <title>milku!</title>
+
+        <!-- style sheets -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <link rel="stylesheet" href="./style.css">
+        <link rel="icon" href="/images/favicon.png" type="image/x-icon">
+
+
+        <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+    </head>
+
+    <body>
+        <main class="container">
+            <div class="row gx-5 header">
+                <div class="topper">
+                    <!-- linsk -->
+                    <div class="row">
+                        <div class="col">
+                            <h1>milku</h1>
+                        </div>
+                        <div class="col">
+                            <a href="/">home</a>
+                        </div>
+                        <div class="col">
+                            <a href="/forums.html">all forums</a>
+                        </div>
+                        <div class="col">
+                            <a href="/goodies.html">good stuff</a>
+                        </div>
+                        <div class="col">
+                            <a href="/citations.html">citations</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row gx-5 justify-content-between">
+                <div class="col-9">
+                    <!-- main forum and junk -->
+                    <div id="posts" class="container-fluid forum">
+
+
+                        <h2>read these rocks or else</h2>
+
+
+
+                    </div>
+                </div>
+                <div id="side" class="col-3">
+                    <!-- right sidebar with activity stats / trending / top users -->
+                    <article class="sidebar">
+                        <h3>enheduana texts *real copies*</h3>
+                        <p>real texts written in sumerian, w/ some interpretation from me</p>
+                        <span class="ad">promoted content</span>
+                    </article>
+                </div>
+            </div>
+
+            <div class="row gx-5 footer">
+                <h2>milku</h2>
+            </div>
+
+        </main>
+        <script src="index.js"></script>
+        <script>
+        $(document).ready(function() {
+            $('#posts').getPosts("jordan_rocks");
+        });
+        </script>
+
+    </body>
+
+
+</html>
